@@ -1,2 +1,2 @@
-# PROG209
-Professor: Kurt Friedrich
+#HW-1
+Simple check in for HW 1
